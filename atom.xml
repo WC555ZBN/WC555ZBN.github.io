@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Liu Yi&#39;s Blog</title>
+  
+  <subtitle>Liu Yi&#39;s Blog</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://wc555zbn.github.io/"/>
+  <updated>2020-07-03T12:39:40.515Z</updated>
+  <id>https://wc555zbn.github.io/</id>
+  
+  <author>
+    <name>Liu Yi</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Redis多级缓存-场景</title>
+    <link href="https://wc555zbn.github.io/2020/02/10/redis-ti-sheng/"/>
+    <id>https://wc555zbn.github.io/2020/02/10/redis-ti-sheng/</id>
+    <published>2020-02-10T03:41:03.000Z</published>
+    <updated>2020-07-03T12:39:40.515Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Redis多级缓存-场景&quot;&gt;&lt;a href=&quot;#Redis多级缓存-场景&quot; class=&quot;headerlink&quot; title=&quot;Redis多级缓存-(场景)&quot;&gt;&lt;/a&gt;Redis多级缓存-(场景)&lt;/h1&gt;&lt;h2 id=&quot;按照粒度由粗到细-场景&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Redis" scheme="https://wc555zbn.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis简介</title>
+    <link href="https://wc555zbn.github.io/2020/01/30/redis-jian-jie/"/>
+    <id>https://wc555zbn.github.io/2020/01/30/redis-jian-jie/</id>
+    <published>2020-01-30T03:41:03.000Z</published>
+    <updated>2020-07-03T11:24:21.842Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Redis简介&quot;&gt;&lt;a href=&quot;#Redis简介&quot; class=&quot;headerlink&quot; title=&quot;Redis简介&quot;&gt;&lt;/a&gt;Redis简介&lt;/h1&gt;&lt;h2 id=&quot;希望各位看官大人能耐心的看下去-我觉得会带给你们收获&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Redis" scheme="https://wc555zbn.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redis第一天安装</title>
+    <link href="https://wc555zbn.github.io/2020/01/27/redis/"/>
+    <id>https://wc555zbn.github.io/2020/01/27/redis/</id>
+    <published>2020-01-27T03:41:03.000Z</published>
+    <updated>2020-07-03T12:39:02.605Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;redis-第一天-安装&quot;&gt;&lt;a href=&quot;#redis-第一天-安装&quot; class=&quot;headerlink&quot; title=&quot;redis-第一天 -安装&quot;&gt;&lt;/a&gt;redis-第一天 -安装&lt;/h1&gt;&lt;h2 id=&quot;redis-传输到Linux&quot;&gt;&lt;a
+        
+      
+    
+    </summary>
+    
+      <category term="Redis的第一天" scheme="https://wc555zbn.github.io/categories/Redis%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+    
+    
+      <category term="Redis" scheme="https://wc555zbn.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>多级缓存设计</title>
+    <link href="https://wc555zbn.github.io/2020/01/25/duo-ji-huan-cun-de-she-ji/"/>
+    <id>https://wc555zbn.github.io/2020/01/25/duo-ji-huan-cun-de-she-ji/</id>
+    <published>2020-01-25T07:41:03.000Z</published>
+    <updated>2020-07-03T12:41:10.228Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;多级缓存设计&quot;&gt;&lt;a href=&quot;#多级缓存设计&quot; class=&quot;headerlink&quot; title=&quot;多级缓存设计&quot;&gt;&lt;/a&gt;多级缓存设计&lt;/h1&gt;&lt;h2 id=&quot;设计缓存的原因-演变史&quot;&gt;&lt;a href=&quot;#设计缓存的原因-演变史&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="Redis的第一天" scheme="https://wc555zbn.github.io/categories/Redis%E7%9A%84%E7%AC%AC%E4%B8%80%E5%A4%A9/"/>
+    
+    
+      <category term="Redis" scheme="https://wc555zbn.github.io/tags/Redis/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HaspMap并发问题</title>
+    <link href="https://wc555zbn.github.io/2019/11/25/hashmap/"/>
+    <id>https://wc555zbn.github.io/2019/11/25/hashmap/</id>
+    <published>2019-11-25T09:35:03.000Z</published>
+    <updated>2020-07-03T13:47:46.252Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;HashMap并发安全&quot;&gt;&lt;a href=&quot;#HashMap并发安全&quot; class=&quot;headerlink&quot; title=&quot;HashMap并发安全&quot;&gt;&lt;/a&gt;HashMap并发安全&lt;/h1&gt;&lt;h2 id=&quot;jdk-1-7&quot;&gt;&lt;a href=&quot;#jdk-1-7&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="HaspMap并发" scheme="https://wc555zbn.github.io/categories/HaspMap%E5%B9%B6%E5%8F%91/"/>
+    
+    
+      <category term="Java" scheme="https://wc555zbn.github.io/tags/Java/"/>
+    
+      <category term="HaspMap" scheme="https://wc555zbn.github.io/tags/HaspMap/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>HelloWorld</title>
+    <link href="https://wc555zbn.github.io/2019/08/27/hello-world/"/>
+    <id>https://wc555zbn.github.io/2019/08/27/hello-world/</id>
+    <published>2019-08-27T03:41:03.000Z</published>
+    <updated>2020-06-29T00:05:35.641Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;pre&gt;&lt;code&gt;public class HelloWorld{
+    public static void main(String[] args){
+        System.out,printl(&quot;HelloWorld&quot;);
+   
+        
+      
+    
+    </summary>
+    
+      <category term="第一次使用hexo" scheme="https://wc555zbn.github.io/categories/%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BD%BF%E7%94%A8hexo/"/>
+    
+    
+      <category term="Java" scheme="https://wc555zbn.github.io/tags/Java/"/>
+    
+      <category term="Github" scheme="https://wc555zbn.github.io/tags/Github/"/>
+    
+      <category term="博客" scheme="https://wc555zbn.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+</feed>
